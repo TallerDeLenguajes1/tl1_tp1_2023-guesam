@@ -7,4 +7,4 @@ Para configurar el archivo .gitignore, se deben agregar las rutas de los archivo
 
 3. c) Entre los archivos subidos en mi repositorio se pueden observar tp1_1.c, README.md y tp1_1.exe. Creo que el que no es necesario es el archivo ejecutable.
 
-g) Los resultados de los puntos 2 y 3 son iguales ya que el puntero apunta a la dirección de memoria de la variable. Sin embargo, el resultado del punto 4 es diferente ya que se está imprimiendo la dirección de memoria del puntero en sí mismo y no de la variable.
+3. g) Los resultados de los puntos 2 y 3 son iguales ya que el puntero apunta a la dirección de memoria de la variable. Sin embargo, el resultado del punto 4 es diferente ya que se está imprimiendo la dirección de memoria del puntero en sí mismo y no de la variable.
